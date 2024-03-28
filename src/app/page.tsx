@@ -1,10 +1,10 @@
 "use client";
-import Collection from "@/Components/Collection/Collection";
-import Frame from "@/Components/Frame/Frame";
+import Collection from "../app/Components/Collection/Collection";
+import Frame from './Components/Frame/Frame'
 import Image from "next/image";
 import Rightarrow from '../../public/righarrow.svg'
 import Leftarrow from '../../public/leftarrow1.svg'
-import Ads from "@/Components/Ads/Ads";
+import Ads from "./Components/Ads/Ads";
 import { IoSunnyOutline } from "react-icons/io5";
 import { IoMoon } from "react-icons/io5";
 import { useState } from "react";

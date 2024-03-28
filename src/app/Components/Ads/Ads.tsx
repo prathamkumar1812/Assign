@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import addd from '../../../public/addd.svg'
+import addd from '../../../../public/addd.svg'
 
 const Ads = () => {
   return (
