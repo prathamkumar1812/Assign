@@ -33,7 +33,7 @@ export default function Home() {
        <div className=" mt-[30px] w-full flex  justify-center"><button className="button12">See More</button></div>
       </div>
       <div className="flex flex-col dark:collectionbg gap-10  items-center w-[85.63vw] h-[918px]">
-        <h1 className="textCollection mt-12 text-black dark:text-white">Collection Spotlight</h1>
+        <h1 className="textCollection  md:text-[50px] mt-12 text-black dark:text-white">Collection Spotlight</h1>
         <p className="text-center  text-black dark:text-white">Discover extraordinary moments with our Spotlight Collection metatickets—exclusive access to premium events for an unforgettable <br></br> experience. Grab yours today!</p>
         <div className=" flex items-center w-[74.98vw]  justify-between">
           <div className="h-[49px] flex items-center justify-center w-[2.53vw] border border-[#2C9CF0]">
